@@ -65,7 +65,6 @@ Miembros
 ![Malla receptora](img/malla_receptora.png)
   
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa?
 >>> A partir de las preguntas realizadas por nuestros usuarios, concluimos que la idea de realizar un micro-sitio para conciertos en directo es apta.
 Hemos decidido que se ofrezca un nuevo servicio en el hostel: conciertos de música en directo. Se organizarán conciertos en el Cocktail Bar o en el Sky Bar una vez a la semana. De esta manera, más gente acudirá al bar para realizar consumiciones y disfrutar de otros servicios del Hostel.
 
@@ -73,12 +72,17 @@ Hemos decidido que se ofrezca un nuevo servicio en el hostel: conciertos de mús
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+![Scope Canvas](img/scope_canvas_hostel4u.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> Vamos a proceder a identificar las tareas que debe realizar los usuarios en el sitio. Para ello vamos a utilizar una matriz de tareas/usuarios donde se enumeran por filas las tareas, y los perfiles de usuario por columnas, indicando la relación entre ambos con su frecuencia de uso, organizada en Baja (L), Media (M), o Alta (H).
+
+### Matriz tareas/usuarios
+
+![Matriz](img/matriz_tareas_usuarios.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
