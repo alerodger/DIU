@@ -115,11 +115,9 @@ Término | Significado
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
+![Moodboard](img/moodboard_4uconciertos.png)
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>> El logotipo lo hemos tomado de la página oficial de Hostel 4U y lo hemos modificado para añadirle "Conciertos"
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
