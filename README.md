@@ -110,7 +110,7 @@ Término | Significado
 ![Prototipo 4](img/prototipo4.png)
 
 
-## Paso 3. Mi UX-Case Study (diseño)
+## Paso 3. Mi UX-Case Study (diseño) (<a href="P3/P3.pdf">P3</a>)
 
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
