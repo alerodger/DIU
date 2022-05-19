@@ -137,10 +137,6 @@ Uso de patrones según las tareas del usuario:
 
 Para el header, utilizaremos una distribución que muestre el logotipo de la página junto al menú, y el footer mostrará información de contacto.
 
-
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
