@@ -40,18 +40,17 @@ Miembros
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-![Ficha Joseph](img/UX_Sophie_Friedrichs.png)
-![Ficha Sophie](img/UX_Joseph_Barnett.png)
+![Ficha Joseph](img/UX_Joseph_Barnett.png)
+![Ficha Sophie](img/UX_Sophie_Friedrichs.png)
 
 >>> Hemos escogido estas experiencias de usuario acorde a las vidas de Joseph y Sophie, y a sus objetivos durante sus estancias en el hostel. Consideramos que se tratan de experiencias muy habituales que se dan en el hostel. Por una parte Joseph quiere descansar y tener unas vacaciones tranquilas por lo que pasa más tiempo en el hostel. Por otra parte Sophie viene con su pareja y quiere hacer más actividades fuera que dentro del hostel.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>>  Revisión de usabilidad: 
+>>> - Enlace al documento:  <a href="P1/Usability_Review.pdf">Documento Usability Review</a>
+>>> - Valoración final (numérica): 84
+>>> - Comentario sobre la valoración:  Esta tabla nos da a conocer la puntuación total de la usabilidad sobre 100 de la página web de Hostel4U en base a una serie de puntuaciones de diferentes ámbitos de diseño de la página. En nuestro caso se ha obtenido una puntuación de 84 sobre 100 (good), lo que supone que el diseño de la página es apto para el uso de la misma con relativa facilidad.
 
 
 ## Paso 2. UX Design  
