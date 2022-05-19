@@ -129,13 +129,13 @@ Término | Significado
 
 Nuestra aplicación estará adaptada a la web para ordenador.
 
-	Uso de patrones según las tareas del usuario:
+Uso de patrones según las tareas del usuario:
 
-	-Navegación. El objetivo es facilitar el paso entre ventanas de forma fácil y sencilla; para ello, utilizaremos un modo de navegación multinivel, de forma que todas las páginas de la aplicación estén conectadas entre sí a través de un menú único no desplegable en el encabezado.
+-Navegación. El objetivo es facilitar el paso entre ventanas de forma fácil y sencilla; para ello, utilizaremos un modo de navegación multinivel, de forma que todas las páginas de la aplicación estén conectadas entre sí a través de un menú único no desplegable en el encabezado.
 
-	-Mostrar información. La forma para mostrar información dependerá de la página en la que estemos, en el caso del calendario y galería de fotos se utilizará una retícula de imágenes en miniatura con posibilidad de ampliación.
+-Mostrar información. La forma para mostrar información dependerá de la página en la que estemos, en el caso del calendario y galería de fotos se utilizará una retícula de imágenes en miniatura con posibilidad de ampliación.
 
-	Para el header, utilizaremos una distribución que muestre el logotipo de la página junto al menú, y el footer mostrará información de contacto.
+Para el header, utilizaremos una distribución que muestre el logotipo de la página junto al menú, y el footer mostrará información de contacto.
 
 
 >>> Estudio de Guidelines y Patrones IU a usar 
