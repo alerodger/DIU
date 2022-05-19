@@ -12,7 +12,7 @@ Descripción:
 >>> Proporcionar información sobre conciertos en directo dentro de nuestro hostel
 
 Logotipo: 
->>> ![4U Conciertos](img/logo.jpg)
+>>> ![4U Conciertos](img/logo.jpg | width=100)
 
 Miembros
  * :bust_in_silhouette:   Carlos Pérez Cruz     :octocat:     
