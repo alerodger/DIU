@@ -60,18 +60,14 @@ Miembros
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+### Malla receptora
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+![Malla receptora](img/malla_receptora.png)
   
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa?
+>>> A partir de las preguntas realizadas por nuestros usuarios, concluimos que la idea de realizar un micro-sitio para conciertos en directo es apta.
+Hemos decidido que se ofrezca un nuevo servicio en el hostel: conciertos de música en directo. Se organizarán conciertos en el Cocktail Bar o en el Sky Bar una vez a la semana. De esta manera, más gente acudirá al bar para realizar consumiciones y disfrutar de otros servicios del Hostel.
 
 
 
