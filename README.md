@@ -88,12 +88,15 @@ Hemos decidido que se ofrezca un nuevo servicio en el hostel: conciertos de mús
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
+![Diagrama](img/diagrama-microsite.png)
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Inicio  | Página de inicio con enlaces al resto de páginas y una breve descripción del servicio de conciertos en el hostel
+  Calendario  | Página de información más detallada de los conciertos próximos.
+  Galería  | Página con una galería de imágenes de los conciertos (y los sitios del hostel donde se hacen dichos conciertos)
+  Contacto  | Página con un formulario para contactar con el hostel si se tiene alguna duda. El número y correo del hostel sale en todas las páginas en la parte superior.
+  hostel4ugranada  | Enlace a la página principal del hostel
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
