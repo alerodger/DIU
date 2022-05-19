@@ -27,12 +27,15 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Comparando el análisis de los hostels mencionados en la práctica, y visualizando el diseño de las páginas de cada uno, podemos decantarnos por el hostel que estamos estudiando, HOSTEL4U, por la relación calidad/precio y el atractivo de las fotos que nos muestran del lugar, por la cantidad de servicios que ofrecen con respecto al resto y las diversas formas de pago que disponen. Todo esto hacen de este hostal un sitio realmente interesante. Los otros dos que comparamos en la práctica también son válidos, pero HOSTEL4U es el más barato de los tres, y cuenta con servicios más interesantes.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+![Ficha Joseph](img/ficha_joseph.png)
+![Ficha Joseph](img/ficha_sophie.png)
+
+>>> Hemos elegido a Joseph y a Sophie porque representan a dos grupos de edades distintas (joven y mediana edad) con objetivos muy distintos en su paso por el hostel. Joseph quiere escapar de la monotonía de su vida y su trabajo en Inglaterra, tomandose unas vacaciones para descansar, mientras que Sophie quiere conocer lugares históricos de España y hacer deportes de montaña durante su estancia en nuestro país.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
