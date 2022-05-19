@@ -123,8 +123,7 @@ Término | Significado
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
->>> Plantear Landing Page 
+<a href="https://alromarin.wixsite.com/my-site">Acceso al landing page</a>
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
