@@ -12,7 +12,7 @@ Descripción:
 >>> Proporcionar información sobre conciertos en directo dentro de nuestro hostel
 
 Logotipo: 
->>> <img src="img/logo.jpg" width=100/>
+>>> <img src="img/logo.jpg" width=200/>
 
 Miembros
  * :bust_in_silhouette:   Carlos Pérez Cruz     :octocat:     
@@ -53,7 +53,7 @@ Miembros
 >>> - Comentario sobre la valoración:  Esta tabla nos da a conocer la puntuación total de la usabilidad sobre 100 de la página web de Hostel4U en base a una serie de puntuaciones de diferentes ámbitos de diseño de la página. En nuestro caso se ha obtenido una puntuación de 84 sobre 100 (good), lo que supone que el diseño de la página es apto para el uso de la misma con relativa facilidad.
 
 
-## Paso 2. UX Design  
+## Paso 2. UX Design  (<a href="P2/P2.pdf">P2</a>)
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
