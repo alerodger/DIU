@@ -33,15 +33,17 @@ Miembros
 -----
 
 ![Ficha Joseph](img/ficha_joseph.png)
-![Ficha Joseph](img/ficha_sophie.png)
+![Ficha Sophie](img/ficha_sophie.png)
 
 >>> Hemos elegido a Joseph y a Sophie porque representan a dos grupos de edades distintas (joven y mediana edad) con objetivos muy distintos en su paso por el hostel. Joseph quiere escapar de la monotonía de su vida y su trabajo en Inglaterra, tomandose unas vacaciones para descansar, mientras que Sophie quiere conocer lugares históricos de España y hacer deportes de montaña durante su estancia en nuestro país.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+![Ficha Joseph](img/UX_Sophie_Friedrichs.png)
+![Ficha Sophie](img/UX_Joseph_Barnett.png)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Hemos escogido estas experiencias de usuario acorde a las vidas de Joseph y Sophie, y a sus objetivos durante sus estancias en el hostel. Consideramos que se tratan de experiencias muy habituales que se dan en el hostel. Por una parte Joseph quiere descansar y tener unas vacaciones tranquilas por lo que pasa más tiempo en el hostel. Por otra parte Sophie viene con su pareja y quiere hacer más actividades fuera que dentro del hostel.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
