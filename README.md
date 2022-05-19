@@ -22,7 +22,7 @@ Miembros
 
 # Proceso de Diseño 
 
-## Paso 1. UX Desk Research & Analisis 
+## Paso 1. UX Desk Research & Analisis (<a href="P1/P1.pdf">P1</a>)
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
