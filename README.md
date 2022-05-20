@@ -142,14 +142,14 @@ Para el header, utilizaremos una distribución que muestre el logotipo de la pá
 
 <a href="https://cloud.protopie.io/p/2bbca89f3e">Acceso al protipo</a>
 
-
+<!---
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
 
 >>> Publicar my Case Study en Github..
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
+--->
 
 ## Paso 4. Evaluación 
 
