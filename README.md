@@ -1,16 +1,20 @@
 # DIU
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostel4U) 
 
-Grupo: DIU3_14PI.  Curso: 2021/22 
-Updated: 19/5/2022
+* Grupo: DIU3_14PI.
 
-Proyecto: 4U Conciertos
+* Curso: 2021/22 
 
-Descripción: 
+* Updated: 19/5/2022
+
+* Proyecto: 4U Conciertos
+
+* Descripción: 
 
 Con 4UConciertos buscamos proporcionar información sobre conciertos en directo dentro de nuestro hostel
 
-Logotipo: 
+* Logotipo:
+ 
 <img src="img/logo.jpg" width=200/>
 
 Miembros
