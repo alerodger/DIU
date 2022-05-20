@@ -126,6 +126,7 @@ Término | Significado
 <a href="https://alromarin.wixsite.com/my-site">Acceso al landing page</a>
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
+----
 
 Nuestra aplicación estará adaptada a la web para ordenador.
 
