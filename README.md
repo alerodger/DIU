@@ -5,16 +5,14 @@ Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostel4U)
 
 * Curso: 2021/22 
 
-* Updated: 19/5/2022
+* Updated: 20/5/2022
 
-* Proyecto: 4U Conciertos
+* Proyecto: 4UConciertos
 
-* Descripción: 
-
-Con 4UConciertos buscamos proporcionar información sobre conciertos en directo dentro de nuestro hostel
+* Descripción: con 4UConciertos buscamos proporcionar información sobre conciertos en directo dentro de nuestro hostel
 
 * Logotipo:
- 
+
 <img src="img/logo.jpg" width=200/>
 
 Miembros
