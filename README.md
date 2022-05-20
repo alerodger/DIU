@@ -140,7 +140,7 @@ Para el header, utilizaremos una distribución que muestre el logotipo de la pá
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+<a href="https://cloud.protopie.io/p/2bbca89f3e">Acceso al protipo</a>
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
