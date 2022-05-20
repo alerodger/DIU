@@ -4,15 +4,14 @@ Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostel4U)
 Grupo: DIU3_14PI.  Curso: 2021/22 
 Updated: 19/5/2022
 
-Proyecto: 
->>> 4U Conciertos
+Proyecto: 4U Conciertos
 
 Descripción: 
 
->>> Proporcionar información sobre conciertos en directo dentro de nuestro hostel
+Con 4UConciertos buscamos proporcionar información sobre conciertos en directo dentro de nuestro hostel
 
 Logotipo: 
->>> <img src="img/logo.jpg" width=200/>
+<img src="img/logo.jpg" width=200/>
 
 Miembros
  * :bust_in_silhouette:   Carlos Pérez Cruz     :octocat:     
@@ -27,7 +26,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Comparando el análisis de los hostels mencionados en la práctica, y visualizando el diseño de las páginas de cada uno, podemos decantarnos por el hostel que estamos estudiando, HOSTEL4U, por la relación calidad/precio y el atractivo de las fotos que nos muestran del lugar, por la cantidad de servicios que ofrecen con respecto al resto y las diversas formas de pago que disponen. Todo esto hacen de este hostal un sitio realmente interesante. Los otros dos que comparamos en la práctica también son válidos, pero HOSTEL4U es el más barato de los tres, y cuenta con servicios más interesantes.
+ Comparando el análisis de los hostels mencionados en la práctica, y visualizando el diseño de las páginas de cada uno, podemos decantarnos por el hostel que estamos estudiando, HOSTEL4U, por la relación calidad/precio y el atractivo de las fotos que nos muestran del lugar, por la cantidad de servicios que ofrecen con respecto al resto y las diversas formas de pago que disponen. Todo esto hacen de este hostal un sitio realmente interesante. Los otros dos que comparamos en la práctica también son válidos, pero HOSTEL4U es el más barato de los tres, y cuenta con servicios más interesantes.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
@@ -35,7 +34,7 @@ Miembros
 ![Ficha Joseph](img/ficha_joseph.png)
 ![Ficha Sophie](img/ficha_sophie.png)
 
->>> Hemos elegido a Joseph y a Sophie porque representan a dos grupos de edades distintas (joven y mediana edad) con objetivos muy distintos en su paso por el hostel. Joseph quiere escapar de la monotonía de su vida y su trabajo en Inglaterra, tomandose unas vacaciones para descansar, mientras que Sophie quiere conocer lugares históricos de España y hacer deportes de montaña durante su estancia en nuestro país.
+ Hemos elegido a Joseph y a Sophie porque representan a dos grupos de edades distintas (joven y mediana edad) con objetivos muy distintos en su paso por el hostel. Joseph quiere escapar de la monotonía de su vida y su trabajo en Inglaterra, tomandose unas vacaciones para descansar, mientras que Sophie quiere conocer lugares históricos de España y hacer deportes de montaña durante su estancia en nuestro país.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -43,14 +42,14 @@ Miembros
 ![Ficha Joseph](img/UX_Joseph_Barnett.png)
 ![Ficha Sophie](img/UX_Sophie_Friedrichs.png)
 
->>> Hemos escogido estas experiencias de usuario acorde a las vidas de Joseph y Sophie, y a sus objetivos durante sus estancias en el hostel. Consideramos que se tratan de experiencias muy habituales que se dan en el hostel. Por una parte Joseph quiere descansar y tener unas vacaciones tranquilas por lo que pasa más tiempo en el hostel. Por otra parte Sophie viene con su pareja y quiere hacer más actividades fuera que dentro del hostel.
+ Hemos escogido estas experiencias de usuario acorde a las vidas de Joseph y Sophie, y a sus objetivos durante sus estancias en el hostel. Consideramos que se tratan de experiencias muy habituales que se dan en el hostel. Por una parte Joseph quiere descansar y tener unas vacaciones tranquilas por lo que pasa más tiempo en el hostel. Por otra parte Sophie viene con su pareja y quiere hacer más actividades fuera que dentro del hostel.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: 
->>> - Enlace al documento:  <a href="P1/Usability_Review.pdf">Documento Usability Review</a>
->>> - Valoración final (numérica): 84
->>> - Comentario sobre la valoración:  Esta tabla nos da a conocer la puntuación total de la usabilidad sobre 100 de la página web de Hostel4U en base a una serie de puntuaciones de diferentes ámbitos de diseño de la página. En nuestro caso se ha obtenido una puntuación de 84 sobre 100 (good), lo que supone que el diseño de la página es apto para el uso de la misma con relativa facilidad.
+  Revisión de usabilidad: 
+ - Enlace al documento:  <a href="P1/Usability_Review.pdf">Documento Usability Review</a>
+ - Valoración final (numérica): 84
+ - Comentario sobre la valoración:  Esta tabla nos da a conocer la puntuación total de la usabilidad sobre 100 de la página web de Hostel4U en base a una serie de puntuaciones de diferentes ámbitos de diseño de la página. En nuestro caso se ha obtenido una puntuación de 84 sobre 100 (good), lo que supone que el diseño de la página es apto para el uso de la misma con relativa facilidad.
 
 
 ## Paso 2. UX Design  (<a href="P2/P2.pdf">P2</a>)
@@ -65,7 +64,7 @@ Miembros
 ![Malla receptora](img/malla_receptora.png)
   
     
->>> A partir de las preguntas realizadas por nuestros usuarios, concluimos que la idea de realizar un micro-sitio para conciertos en directo es apta.
+A partir de las preguntas realizadas por nuestros usuarios, concluimos que la idea de realizar un micro-sitio para conciertos en directo es apta.
 Hemos decidido que se ofrezca un nuevo servicio en el hostel: conciertos de música en directo. Se organizarán conciertos en el Cocktail Bar o en el Sky Bar una vez a la semana. De esta manera, más gente acudirá al bar para realizar consumiciones y disfrutar de otros servicios del Hostel.
 
 
@@ -78,7 +77,7 @@ Hemos decidido que se ofrezca un nuevo servicio en el hostel: conciertos de mús
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Vamos a proceder a identificar las tareas que debe realizar los usuarios en el sitio. Para ello vamos a utilizar una matriz de tareas/usuarios donde se enumeran por filas las tareas, y los perfiles de usuario por columnas, indicando la relación entre ambos con su frecuencia de uso, organizada en Baja (L), Media (M), o Alta (H).
+Vamos a proceder a identificar las tareas que debe realizar los usuarios en el sitio. Para ello vamos a utilizar una matriz de tareas/usuarios donde se enumeran por filas las tareas, y los perfiles de usuario por columnas, indicando la relación entre ambos con su frecuencia de uso, organizada en Baja (L), Media (M), o Alta (H).
 
 ### Matriz tareas/usuarios
 
@@ -102,7 +101,7 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Diseño del layout para web
+Diseño del layout para web
 
 ![Prototipo 1](img/prototipo1.png)
 ![Prototipo 2](img/prototipo2.png)
@@ -117,7 +116,7 @@ Término | Significado
 -----
 ![Moodboard](img/moodboard_4uconciertos.png)
 
->>> El logotipo lo hemos tomado de la página oficial de Hostel 4U y lo hemos modificado para añadirle "Conciertos"
+El logotipo lo hemos tomado de la página oficial de Hostel 4U y lo hemos modificado con paint para añadirle la palabra "Conciertos" con la fuente elegida en el moodboard
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
