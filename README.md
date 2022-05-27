@@ -22,8 +22,8 @@ El objetivo principal de nuestra página es <strong>informar</strong> de los con
 <img src="img/logo.jpg" width=200/>
 
 Miembros
- * :bust_in_silhouette:   Carlos Pérez Cruz     :octocat:     
- * :bust_in_silhouette:  Alejandro Rodger Marín     :octocat:
+ * :bust_in_silhouette: <a href="https://github.com/capcrz12"> Carlos Pérez Cruz </a>    :octocat:     
+ * :bust_in_silhouette: <a href="https://github.com/alerodger"> Alejandro Rodger Marín </a>    :octocat:
 
 ----- 
 
