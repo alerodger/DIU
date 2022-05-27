@@ -9,7 +9,8 @@ Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostel4U)
 
 * Proyecto: 4UConciertos
 
-* Descripción: 
+* Descripción:
+
 El microsite que hemos realizado consiste en un sitio web para promocionar los conciertos en directo dentro de nuestro hostel. Su funcionalidad principal es informar a los clientes del hostel y usuarios interesados de los diferentes conciertos que se van a realizar en el hostel, fechas e información sobre los grupos.
 
 Dispone de una página de inicio, una página con un calendario de los distintos conciertos, que si clicas en ellos te sale información de los grupos, otra con una galería de imágenes de los grupos y conciertos anteriores, que si clicas en las imágenes te sale más información, otra página de contacto con un formulario para contactar con nosotros, y un enlace a la página principal del hostel, para realizar allí las reservas.
