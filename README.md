@@ -185,7 +185,7 @@ Dispone de 5 páginas: inicio, con una lista de actividades y un botón de reser
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
-![Cuestionario SUS](img/cuestionario_SUS.png)
+![Cuestionario SUS](img/SUS.png)
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
