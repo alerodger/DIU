@@ -176,20 +176,16 @@ Dispone de 5 páginas: inicio, con una lista de actividades y un botón de reser
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Javier  | H / 24   | Estudiante  | Avanzada       | Introvertido | Web.       | A 
+| Josefina  | M / 34   | Turista  | Media       | Racional       | Web        | A 
+| Francisca  | M / 52   | Aparejadora     | Baja        | Emocional    |Web      | B 
+| Pedro  | H / 19   | Estudiante  | Avanzada       | Extrovertido     | Web        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+![Cuestionario SUS](img/cuestionario_SUS.png)
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
@@ -200,24 +196,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 >>> Valoración personal 
-
-
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
-
-
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
-
 
 ## Conclusión final / Valoración de las prácticas
 
