@@ -196,11 +196,11 @@ Dispone de 5 páginas: inicio, con una lista de actividades y un botón de reser
 ## Conclusión final / Valoración de las prácticas
 
 
->>> La metodología UX nos ha permitido identificar las motivaciones del usuario, pudiendo adaptar nuestro sitio web a
+>>>   La metodología UX nos ha permitido identificar las motivaciones del usuario, pudiendo adaptar nuestro sitio web a
 sus necesidades. A través de la obtención de información durante las prácticas, situando al usuario en el centro del diseño,
 hemos conseguido implementar un prototipo final que cumple los requisitos mínimos para que su uso sea sencillo, atractivo y
 eficiente.
-    Podemos decir entonces que los resultados obtenidos han sido positivos, permitiendo así adquirir los conceptos básicos
+>>>   Podemos decir entonces que los resultados obtenidos han sido positivos, permitiendo así adquirir los conceptos básicos
 del desarrollo centrado en el usuario.
 
 
