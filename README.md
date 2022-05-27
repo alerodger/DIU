@@ -200,7 +200,7 @@ Dispone de 5 páginas: inicio, con una lista de actividades y un botón de reser
 sus necesidades. A través de la obtención de información durante las prácticas, situando al usuario en el centro del diseño,
 hemos conseguido implementar un prototipo final que cumple los requisitos mínimos para que su uso sea sencillo, atractivo y
 eficiente.
-      <br/>Podemos decir entonces que los resultados obtenidos han sido positivos, permitiendo así adquirir los conceptos básicos
+      <br/><br/>Podemos decir entonces que los resultados obtenidos han sido positivos, permitiendo así adquirir los conceptos básicos
 del desarrollo centrado en el usuario.
 
 
