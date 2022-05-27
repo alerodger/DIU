@@ -148,7 +148,7 @@ Para el header, utilizaremos una distribución que muestre el logotipo de la pá
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-<a href="https://cloud.protopie.io/p/2bbca89f3e">Acceso al protipo</a>
+<a href="https://cloud.protopie.io/p/2bbca89f3e">Acceso al prototipo del microsite</a>
 
 <!---
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
@@ -191,11 +191,7 @@ Dispone de 5 páginas: inicio, con una lista de actividades y un botón de reser
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
+<a href="P4/P4_UsabReport_RAYSE_doneby_DIU3.14_PI.pdf">Acceso al Usability Report</a>
 
 ## Conclusión final / Valoración de las prácticas
 
