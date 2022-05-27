@@ -9,7 +9,12 @@ Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostel4U)
 
 * Proyecto: 4UConciertos
 
-* Descripción: con 4UConciertos buscamos proporcionar información sobre conciertos en directo dentro de nuestro hostel
+* Descripción: 
+El microsite que hemos realizado consiste en un sitio web para promocionar los conciertos en directo dentro de nuestro hostel. Su funcionalidad principal es informar a los clientes del hostel y usuarios interesados de los diferentes conciertos que se van a realizar en el hostel, fechas e información sobre los grupos.
+
+Dispone de una página de inicio, una página con un calendario de los distintos conciertos, que si clicas en ellos te sale información de los grupos, otra con una galería de imágenes de los grupos y conciertos anteriores, que si clicas en las imágenes te sale más información, otra página de contacto con un formulario para contactar con nosotros, y un enlace a la página principal del hostel, para realizar allí las reservas.
+
+El objetivo principal de nuestra página es <strong>informar</strong> de los conciertos, no realizar reservas de los mismos. Las reservas se realizarán en la página del hostel.
 
 * Logotipo:
 
@@ -159,15 +164,14 @@ Para el header, utilizaremos una distribución que muestre el logotipo de la pá
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+Este microsite web consiste en un sitio web en el que se pueden encontrar ciertas actividades que se ofertan en el hostel, incluyendo detalles de cada una de las actividades. La función principal de la web es informar, así como realizar una reserva en el hostel o de las actividades disponibles a través de un formulario.
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Dispone de 5 páginas: inicio, con una lista de actividades y un botón de reserva, una página de actividades, de nuevo con una lista de actividades, una página de contacto, pero las páginas de galería e instalaciones no están implementadas.Está organizada con la típica estructura header-main-footer, la información principal está en el main, el menú que conecta las páginas entre sí está en el header y la información adicional en el footer.
 
+<a href="https://github.com/antoniogamiz/DIU/">Acceso al Github</a>
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+---- 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
